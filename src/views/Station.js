@@ -64,24 +64,24 @@ export default function asyncStation(importComponent) {
         y: +y + 70
       };
       const statId = this.getAttVal(attributes, 'statid');
-      let timesheet = null;
-      timesheet = stationInfos[statId].timesheet;
-      timesheet = this.formatTimesheet(timesheet);
+      // let timesheet = null;
+      // timesheet = stationInfos[statId].timesheet;
+      // timesheet = this.formatTimesheet(timesheet);
       const infoCard = {
         show: !this.state.show,
         stationName: stationName,
         stationPosition: position,
-        statId: statId,
-        timesheet: timesheet
+        statId: statId
+        // timesheet: timesheet
       }
       if (this.state.lastStation === null) {
         this.setState({ lastStation: statId });
       } else if (statId !== this.state.lastStation) {
-        const keys = Object.keys(timesheet);
-        if (timesheet !== null && timesheet.length !== 0) {
-          const currentLine = keys[0];
-          infoCard.currentLine = currentLine;
-        }
+        // const keys = Object.keys(timesheet);
+        // if (timesheet !== null && timesheet.length !== 0) {
+        //   const currentLine = keys[0];
+        //   infoCard.currentLine = currentLine;
+        // }
       }
       const stationInfo = stationInfos[statId];
       this.props.convertShowInfoCard(infoCard, stationInfo);

@@ -5,7 +5,7 @@
     "cy": "769.16",
     "stroke": "#EE1822",
     "id": "韦家碾",
-    "statid": "1-0"
+    "statid": "non-transfer-1-0"
   },
   {
     "name": "升仙湖",
@@ -13,7 +13,7 @@
     "cy": "831.66",
     "stroke": "#EE1822",
     "id": "升仙湖",
-    "statid": "1-1"
+    "statid": "non-transfer-1-1"
   },
   {
     "name": "人民北路",
@@ -21,7 +21,7 @@
     "cy": "992.75",
     "stroke": "#EE1822",
     "id": "人民北路",
-    "statid": "1-3"
+    "statid": "non-transfer-1-2"
   },
   {
     "name": "文殊院",
@@ -29,7 +29,7 @@
     "cy": "1053.38",
     "stroke": "#EE1822",
     "id": "文殊院",
-    "statid": "1-4"
+    "statid": "non-transfer-1-3"
   },
   {
     "name": "锦江宾馆",
@@ -37,7 +37,7 @@
     "cy": "1200.94",
     "stroke": "#EE1822",
     "id": "锦江宾馆",
-    "statid": "1-7"
+    "statid": "non-transfer-1-4"
   },
   {
     "name": "华西坝",
@@ -45,7 +45,7 @@
     "cy": "1246.28",
     "stroke": "#EE1822",
     "id": "华西坝",
-    "statid": "1-8"
+    "statid": "non-transfer-1-5"
   },
   {
     "name": "省体育馆",
@@ -53,7 +53,7 @@
     "cy": "1293.13",
     "stroke": "#EE1822",
     "id": "省体育馆",
-    "statid": "1-9"
+    "statid": "non-transfer-1-6"
   },
   {
     "name": "倪家桥",
@@ -61,7 +61,7 @@
     "cy": "1325.09",
     "stroke": "#EE1822",
     "id": "倪家桥",
-    "statid": "1-10"
+    "statid": "non-transfer-1-7"
   },
   {
     "name": "桐梓林",
@@ -69,7 +69,7 @@
     "cy": "1363.56",
     "stroke": "#EE1822",
     "id": "桐梓林",
-    "statid": "1-11"
+    "statid": "non-transfer-1-8"
   },
   {
     "name": "高新",
@@ -77,7 +77,7 @@
     "cy": "1487.5",
     "stroke": "#EE1822",
     "id": "高新",
-    "statid": "1-13"
+    "statid": "non-transfer-1-9"
   },
   {
     "name": "金融城",
@@ -85,7 +85,7 @@
     "cy": "1533.13",
     "stroke": "#EE1822",
     "id": "金融城",
-    "statid": "1-14"
+    "statid": "non-transfer-1-10"
   },
   {
     "name": "孵化园",
@@ -93,7 +93,7 @@
     "cy": "1572.03",
     "stroke": "#EE1822",
     "id": "孵化园",
-    "statid": "1-15"
+    "statid": "non-transfer-1-11"
   },
   {
     "name": "锦城广场",
@@ -101,7 +101,7 @@
     "cy": "1615.78",
     "stroke": "#EE1822",
     "id": "锦城广场",
-    "statid": "1-16"
+    "statid": "non-transfer-1-12"
   },
   {
     "name": "世纪城",
@@ -109,7 +109,7 @@
     "cy": "1653.44",
     "stroke": "#EE1822",
     "id": "世纪城",
-    "statid": "1-17"
+    "statid": "non-transfer-1-13"
   },
   {
     "name": "天府三街",
@@ -117,7 +117,7 @@
     "cy": "1700",
     "stroke": "#EE1822",
     "id": "天府三街",
-    "statid": "1-18"
+    "statid": "non-transfer-1-14"
   },
   {
     "name": "天府五街",
@@ -125,7 +125,7 @@
     "cy": "1746.88",
     "stroke": "#EE1822",
     "id": "天府五街",
-    "statid": "1-19"
+    "statid": "non-transfer-1-15"
   },
   {
     "name": "华府大道",
@@ -133,7 +133,7 @@
     "cy": "1793.75",
     "stroke": "#EE1822",
     "id": "华府大道",
-    "statid": "1-20"
+    "statid": "non-transfer-1-16"
   },
   {
     "name": "四河",
@@ -141,7 +141,7 @@
     "cy": "1840.63",
     "stroke": "#EE1822",
     "id": "四河",
-    "statid": "1-21"
+    "statid": "non-transfer-1-17"
   },
   {
     "name": "广都",
@@ -149,7 +149,7 @@
     "cy": "1861.25",
     "stroke": "#EE1822",
     "id": "广都",
-    "statid": "1-22"
+    "statid": "non-transfer-1-18"
   },
   {
     "name": "五根松",
@@ -157,7 +157,7 @@
     "cy": "1886.25",
     "stroke": "#EE1822",
     "id": "五根松",
-    "statid": "1-23"
+    "statid": "non-transfer-1-19"
   },
   {
     "name": "华阳",
@@ -165,7 +165,7 @@
     "cy": "1886.25",
     "stroke": "#EE1822",
     "id": "华阳",
-    "statid": "1-22"
+    "statid": "non-transfer-1-18"
   },
   {
     "name": "海昌路",
@@ -173,7 +173,7 @@
     "cy": "1917.5",
     "stroke": "#EE1822",
     "id": "海昌路",
-    "statid": "1-23"
+    "statid": "non-transfer-1-19"
   },
   {
     "name": "广福",
@@ -181,7 +181,7 @@
     "cy": "1948.75",
     "stroke": "#EE1822",
     "id": "广福",
-    "statid": "1-24"
+    "statid": "non-transfer-1-20"
   },
   {
     "name": "红石公园",
@@ -189,7 +189,7 @@
     "cy": "1980",
     "stroke": "#EE1822",
     "id": "红石公园",
-    "statid": "1-25"
+    "statid": "non-transfer-1-21"
   },
   {
     "name": "麓湖",
@@ -197,7 +197,7 @@
     "cy": "2011.25",
     "stroke": "#EE1822",
     "id": "麓湖",
-    "statid": "1-26"
+    "statid": "non-transfer-1-22"
   },
   {
     "name": "武汉路",
@@ -205,7 +205,7 @@
     "cy": "2042.5",
     "stroke": "#EE1822",
     "id": "武汉路",
-    "statid": "1-27"
+    "statid": "non-transfer-1-23"
   },
   {
     "name": "天府公园",
@@ -213,7 +213,7 @@
     "cy": "2073.75",
     "stroke": "#EE1822",
     "id": "天府公园",
-    "statid": "1-28"
+    "statid": "non-transfer-1-24"
   },
   {
     "name": "西博城",
@@ -221,7 +221,7 @@
     "cy": "2105",
     "stroke": "#EE1822",
     "id": "西博城",
-    "statid": "1-29"
+    "statid": "non-transfer-1-25"
   },
   {
     "name": "广州路",
@@ -229,7 +229,7 @@
     "cy": "2136.25",
     "stroke": "#EE1822",
     "id": "广州路",
-    "statid": "1-30"
+    "statid": "non-transfer-1-26"
   },
   {
     "name": "兴隆湖",
@@ -237,7 +237,7 @@
     "cy": "2167.5",
     "stroke": "#EE1822",
     "id": "兴隆湖",
-    "statid": "1-31"
+    "statid": "non-transfer-1-27"
   },
   {
     "name": "科学城",
@@ -245,7 +245,7 @@
     "cy": "2198.75",
     "stroke": "#EE1822",
     "id": "科学城",
-    "statid": "1-32"
+    "statid": "non-transfer-1-28"
   },
   {
     "name": "犀浦",
@@ -253,7 +253,7 @@
     "cy": "646.88",
     "stroke": "#85C73F",
     "id": "犀浦",
-    "statid": "2-0"
+    "statid": "non-transfer-2-0"
   },
   {
     "name": "天河路",
@@ -261,7 +261,7 @@
     "cy": "678.13",
     "stroke": "#85C73F",
     "id": "天河路",
-    "statid": "2-1"
+    "statid": "non-transfer-2-1"
   },
   {
     "name": "百草路",
@@ -269,7 +269,7 @@
     "cy": "709.38",
     "stroke": "#85C73F",
     "id": "百草路",
-    "statid": "2-2"
+    "statid": "non-transfer-2-2"
   },
   {
     "name": "金周路",
@@ -277,7 +277,7 @@
     "cy": "740.63",
     "stroke": "#85C73F",
     "id": "金周路",
-    "statid": "2-3"
+    "statid": "non-transfer-2-3"
   },
   {
     "name": "金科北路",
@@ -285,7 +285,7 @@
     "cy": "771.88",
     "stroke": "#85C73F",
     "id": "金科北路",
-    "statid": "2-4"
+    "statid": "non-transfer-2-4"
   },
   {
     "name": "迎宾大道",
@@ -293,7 +293,7 @@
     "cy": "803.13",
     "stroke": "#85C73F",
     "id": "迎宾大道",
-    "statid": "2-5"
+    "statid": "non-transfer-2-5"
   },
   {
     "name": "茶店子客运站",
@@ -301,7 +301,7 @@
     "cy": "837.5",
     "stroke": "#85C73F",
     "id": "茶店子客运站",
-    "statid": "2-6"
+    "statid": "non-transfer-2-6"
   },
   {
     "name": "羊犀立交",
@@ -309,7 +309,7 @@
     "cy": "927.31",
     "stroke": "#85C73F",
     "id": "羊犀立交",
-    "statid": "2-7"
+    "statid": "non-transfer-2-7"
   },
   {
     "name": "蜀汉路东",
@@ -317,7 +317,7 @@
     "cy": "1018.75",
     "stroke": "#85C73F",
     "id": "蜀汉路东",
-    "statid": "2-9"
+    "statid": "non-transfer-2-8"
   },
   {
     "name": "白果林",
@@ -325,7 +325,7 @@
     "cy": "1057.22",
     "stroke": "#85C73F",
     "id": "白果林",
-    "statid": "2-10"
+    "statid": "non-transfer-2-9"
   },
   {
     "name": "通惠门",
@@ -333,7 +333,7 @@
     "cy": "1120.47",
     "stroke": "#85C73F",
     "id": "通惠门",
-    "statid": "2-12"
+    "statid": "non-transfer-2-10"
   },
   {
     "name": "人民公园",
@@ -341,7 +341,7 @@
     "cy": "1132.13",
     "stroke": "#85C73F",
     "id": "人民公园",
-    "statid": "2-13"
+    "statid": "non-transfer-2-11"
   },
   {
     "name": "春熙路",
@@ -349,7 +349,7 @@
     "cy": "1162.5",
     "stroke": "#85C73F",
     "id": "春熙路",
-    "statid": "2-15"
+    "statid": "non-transfer-2-12"
   },
   {
     "name": "东门大桥",
@@ -357,7 +357,7 @@
     "cy": "1172.13",
     "stroke": "#85C73F",
     "id": "东门大桥",
-    "statid": "2-16"
+    "statid": "non-transfer-2-13"
   },
   {
     "name": "牛王庙",
@@ -365,7 +365,7 @@
     "cy": "1184.94",
     "stroke": "#85C73F",
     "id": "牛王庙",
-    "statid": "2-17"
+    "statid": "non-transfer-2-14"
   },
   {
     "name": "牛市口",
@@ -373,7 +373,7 @@
     "cy": "1198.38",
     "stroke": "#85C73F",
     "id": "牛市口",
-    "statid": "2-18"
+    "statid": "non-transfer-2-15"
   },
   {
     "name": "东大路",
@@ -381,7 +381,7 @@
     "cy": "1210.66",
     "stroke": "#85C73F",
     "id": "东大路",
-    "statid": "2-19"
+    "statid": "non-transfer-2-16"
   },
   {
     "name": "塔子山公园",
@@ -389,7 +389,7 @@
     "cy": "1222.09",
     "stroke": "#85C73F",
     "id": "塔子山公园",
-    "statid": "2-20"
+    "statid": "non-transfer-2-17"
   },
   {
     "name": "成渝立交",
@@ -397,7 +397,7 @@
     "cy": "1253.63",
     "stroke": "#85C73F",
     "id": "成渝立交",
-    "statid": "2-22"
+    "statid": "non-transfer-2-18"
   },
   {
     "name": "惠王陵",
@@ -405,7 +405,7 @@
     "cy": "1311.13",
     "stroke": "#85C73F",
     "id": "惠王陵",
-    "statid": "2-23"
+    "statid": "non-transfer-2-19"
   },
   {
     "name": "洪河",
@@ -413,7 +413,7 @@
     "cy": "1341.88",
     "stroke": "#85C73F",
     "id": "洪河",
-    "statid": "2-24"
+    "statid": "non-transfer-2-20"
   },
   {
     "name": "成都行政学院",
@@ -421,7 +421,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "成都行政学院",
-    "statid": "2-25"
+    "statid": "non-transfer-2-21"
   },
   {
     "name": "大面铺",
@@ -429,7 +429,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "大面铺",
-    "statid": "2-26"
+    "statid": "non-transfer-2-22"
   },
   {
     "name": "连山坡",
@@ -437,7 +437,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "连山坡",
-    "statid": "2-27"
+    "statid": "non-transfer-2-23"
   },
   {
     "name": "界牌",
@@ -445,7 +445,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "界牌",
-    "statid": "2-28"
+    "statid": "non-transfer-2-24"
   },
   {
     "name": "书房",
@@ -453,7 +453,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "书房",
-    "statid": "2-29"
+    "statid": "non-transfer-2-25"
   },
   {
     "name": "龙平路",
@@ -461,7 +461,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "龙平路",
-    "statid": "2-30"
+    "statid": "non-transfer-2-26"
   },
   {
     "name": "龙泉驿",
@@ -469,7 +469,7 @@
     "cy": "1375",
     "stroke": "#85C73F",
     "id": "龙泉驿",
-    "statid": "2-31"
+    "statid": "non-transfer-2-27"
   },
   {
     "name": "红牌楼",
@@ -477,7 +477,7 @@
     "cy": "1293.13",
     "stroke": "#FDD303",
     "id": "红牌楼",
-    "statid": "3-1"
+    "statid": "non-transfer-3-0"
   },
   {
     "name": "高升桥",
@@ -485,7 +485,7 @@
     "cy": "1293.13",
     "stroke": "#FDD303",
     "id": "高升桥",
-    "statid": "3-2"
+    "statid": "non-transfer-3-1"
   },
   {
     "name": "衣冠庙",
@@ -493,7 +493,7 @@
     "cy": "1293.13",
     "stroke": "#FDD303",
     "id": "衣冠庙",
-    "statid": "3-3"
+    "statid": "non-transfer-3-2"
   },
   {
     "name": "磨子桥",
@@ -501,7 +501,7 @@
     "cy": "1293.13",
     "stroke": "#FDD303",
     "id": "磨子桥",
-    "statid": "3-5"
+    "statid": "non-transfer-3-4"
   },
   {
     "name": "新南门",
@@ -509,7 +509,7 @@
     "cy": "1211.25",
     "stroke": "#FDD303",
     "id": "新南门",
-    "statid": "3-6"
+    "statid": "non-transfer-3-5"
   },
   {
     "name": "市二医院",
@@ -517,7 +517,7 @@
     "cy": "1129.38",
     "stroke": "#FDD303",
     "id": "市二医院",
-    "statid": "3-8"
+    "statid": "non-transfer-3-7"
   },
   {
     "name": "红星桥",
@@ -525,7 +525,7 @@
     "cy": "1068.75",
     "stroke": "#FDD303",
     "id": "红星桥",
-    "statid": "3-9"
+    "statid": "non-transfer-3-8"
   },
   {
     "name": "前锋路",
@@ -533,7 +533,7 @@
     "cy": "1014.38",
     "stroke": "#FDD303",
     "id": "前锋路",
-    "statid": "3-10"
+    "statid": "non-transfer-3-9"
   },
   {
     "name": "李家沱",
@@ -541,7 +541,7 @@
     "cy": "972.5",
     "stroke": "#FDD303",
     "id": "李家沱",
-    "statid": "3-11"
+    "statid": "non-transfer-3-10"
   },
   {
     "name": "昭觉寺南路",
@@ -549,7 +549,7 @@
     "cy": "890.63",
     "stroke": "#FDD303",
     "id": "昭觉寺南路",
-    "statid": "3-13"
+    "statid": "non-transfer-3-11"
   },
   {
     "name": "动物园",
@@ -557,7 +557,7 @@
     "cy": "855",
     "stroke": "#FDD303",
     "id": "动物园",
-    "statid": "3-14"
+    "statid": "non-transfer-3-12"
   },
   {
     "name": "熊猫大道",
@@ -565,7 +565,7 @@
     "cy": "821.25",
     "stroke": "#FDD303",
     "id": "熊猫大道",
-    "statid": "3-15"
+    "statid": "non-transfer-3-13"
   },
   {
     "name": "军区总医院",
@@ -573,7 +573,7 @@
     "cy": "786.25",
     "stroke": "#FDD303",
     "id": "军区总医院",
-    "statid": "3-16"
+    "statid": "non-transfer-3-14"
   },
   {
     "name": "马厂坝",
@@ -581,7 +581,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "马厂坝",
-    "statid": "4-0"
+    "statid": "non-transfer-4-0"
   },
   {
     "name": "凤凰大街",
@@ -589,7 +589,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "凤凰大街",
-    "statid": "4-1"
+    "statid": "non-transfer-4-1"
   },
   {
     "name": "涌泉",
@@ -597,7 +597,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "涌泉",
-    "statid": "4-2"
+    "statid": "non-transfer-4-2"
   },
   {
     "name": "光华公园",
@@ -605,7 +605,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "光华公园",
-    "statid": "4-3"
+    "statid": "non-transfer-4-3"
   },
   {
     "name": "南熏大道",
@@ -613,7 +613,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "南熏大道",
-    "statid": "4-4"
+    "statid": "non-transfer-4-4"
   },
   {
     "name": "凤溪河",
@@ -621,7 +621,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "凤溪河",
-    "statid": "4-5"
+    "statid": "non-transfer-4-5"
   },
   {
     "name": "杨柳河",
@@ -629,7 +629,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "杨柳河",
-    "statid": "4-6"
+    "statid": "non-transfer-4-6"
   },
   {
     "name": "万盛",
@@ -637,7 +637,7 @@
     "cy": "1087.06",
     "stroke": "#4E2C8D",
     "id": "万盛",
-    "statid": "4-7"
+    "statid": "non-transfer-4-7"
   },
   {
     "name": "非遗博览园",
@@ -645,7 +645,7 @@
     "cy": "1086.25",
     "stroke": "#4E2C8D",
     "id": "非遗博览园",
-    "statid": "4-8"
+    "statid": "non-transfer-4-8"
   },
   {
     "name": "蔡桥",
@@ -653,7 +653,7 @@
     "cy": "1086.25",
     "stroke": "#4E2C8D",
     "id": "蔡桥",
-    "statid": "4-9"
+    "statid": "non-transfer-4-9"
   },
   {
     "name": "中坝",
@@ -661,7 +661,7 @@
     "cy": "1086.25",
     "stroke": "#4E2C8D",
     "id": "中坝",
-    "statid": "4-10"
+    "statid": "non-transfer-4-10"
   },
   {
     "name": "成都西站",
@@ -669,7 +669,7 @@
     "cy": "1086.88",
     "stroke": "#4E2C8D",
     "id": "成都西站",
-    "statid": "4-11"
+    "statid": "non-transfer-4-11"
   },
   {
     "name": "清江西路",
@@ -677,7 +677,7 @@
     "cy": "1087.5",
     "stroke": "#4E2C8D",
     "id": "清江西路",
-    "statid": "4-12"
+    "statid": "non-transfer-4-12"
   },
   {
     "name": "西南财大",
@@ -685,7 +685,7 @@
     "cy": "1087.5",
     "stroke": "#4E2C8D",
     "id": "西南财大",
-    "statid": "4-14"
+    "statid": "non-transfer-4-13"
   },
   {
     "name": "草堂北路",
@@ -693,7 +693,7 @@
     "cy": "1088.13",
     "stroke": "#4E2C8D",
     "id": "草堂北路",
-    "statid": "4-15"
+    "statid": "non-transfer-4-14"
   },
   {
     "name": "宽窄巷子",
@@ -701,7 +701,7 @@
     "cy": "1098.75",
     "stroke": "#4E2C8D",
     "id": "宽窄巷子",
-    "statid": "4-17"
+    "statid": "non-transfer-4-15"
   },
   {
     "name": "太升南路",
@@ -709,7 +709,7 @@
     "cy": "1115",
     "stroke": "#4E2C8D",
     "id": "太升南路",
-    "statid": "4-19"
+    "statid": "non-transfer-4-16"
   },
   {
     "name": "玉双路",
@@ -717,7 +717,7 @@
     "cy": "1150",
     "stroke": "#4E2C8D",
     "id": "玉双路",
-    "statid": "4-21"
+    "statid": "non-transfer-4-18"
   },
   {
     "name": "双桥路",
@@ -725,7 +725,7 @@
     "cy": "1161.88",
     "stroke": "#4E2C8D",
     "id": "双桥路",
-    "statid": "4-22"
+    "statid": "non-transfer-4-19"
   },
   {
     "name": "万年场",
@@ -733,7 +733,7 @@
     "cy": "1168.13",
     "stroke": "#4E2C8D",
     "id": "万年场",
-    "statid": "4-23"
+    "statid": "non-transfer-4-20"
   },
   {
     "name": "来龙",
@@ -741,7 +741,7 @@
     "cy": "1188.25",
     "stroke": "#4E2C8D",
     "id": "来龙",
-    "statid": "4-25"
+    "statid": "non-transfer-4-21"
   },
   {
     "name": "十陵",
@@ -749,7 +749,7 @@
     "cy": "1188.88",
     "stroke": "#4E2C8D",
     "id": "十陵",
-    "statid": "4-26"
+    "statid": "non-transfer-4-22"
   },
   {
     "name": "成都大学",
@@ -757,7 +757,7 @@
     "cy": "1188.88",
     "stroke": "#4E2C8D",
     "id": "成都大学",
-    "statid": "4-27"
+    "statid": "non-transfer-4-23"
   },
   {
     "name": "明蜀王陵",
@@ -765,7 +765,7 @@
     "cy": "1188.88",
     "stroke": "#4E2C8D",
     "id": "明蜀王陵",
-    "statid": "4-28"
+    "statid": "non-transfer-4-24"
   },
   {
     "name": "西河",
@@ -773,7 +773,7 @@
     "cy": "1188.88",
     "stroke": "#4E2C8D",
     "id": "西河",
-    "statid": "4-29"
+    "statid": "non-transfer-4-25"
   },
   {
     "name": "簇锦",
@@ -781,7 +781,7 @@
     "cy": "1458.69",
     "stroke": "#B8A8CF",
     "id": "簇锦",
-    "statid": "10-1"
+    "statid": "non-transfer-10-0"
   },
   {
     "name": "华兴",
@@ -789,7 +789,7 @@
     "cy": "1505.56",
     "stroke": "#B8A8CF",
     "id": "华兴",
-    "statid": "10-2"
+    "statid": "non-transfer-10-1"
   },
   {
     "name": "金花",
@@ -797,7 +797,7 @@
     "cy": "1551.5",
     "stroke": "#B8A8CF",
     "id": "金花",
-    "statid": "10-3"
+    "statid": "non-transfer-10-2"
   },
   {
     "name": "双流机场1航站楼",
@@ -805,7 +805,7 @@
     "cy": "1601.25",
     "stroke": "#B8A8CF",
     "id": "双流机场1航站楼",
-    "statid": "10-4"
+    "statid": "non-transfer-10-3"
   },
   {
     "name": "双流机场2航站楼",
@@ -813,7 +813,7 @@
     "cy": "1658.87",
     "stroke": "#B8A8CF",
     "id": "双流机场2航站楼",
-    "statid": "10-5"
+    "statid": "non-transfer-10-4"
   },
   {
     "name": "高朋大道",
@@ -821,7 +821,7 @@
     "cy": "1399.12",
     "stroke": "#F26F1F",
     "id": "高朋大道",
-    "statid": "7-0"
+    "statid": "non-transfer-7-0"
   },
   {
     "name": "神仙树",
@@ -829,7 +829,7 @@
     "cy": "1399.12",
     "stroke": "#F26F1F",
     "id": "神仙树",
-    "statid": "7-1"
+    "statid": "non-transfer-7-1"
   },
   {
     "name": "三瓦窑",
@@ -837,7 +837,7 @@
     "cy": "1399.12",
     "stroke": "#F26F1F",
     "id": "三瓦窑",
-    "statid": "7-3"
+    "statid": "non-transfer-7-2"
   },
   {
     "name": "琉璃场",
@@ -845,7 +845,7 @@
     "cy": "1365.56",
     "stroke": "#F26F1F",
     "id": "琉璃场",
-    "statid": "7-4"
+    "statid": "non-transfer-7-3"
   },
   {
     "name": "四川师大",
@@ -853,7 +853,7 @@
     "cy": "1330.37",
     "stroke": "#F26F1F",
     "id": "四川师大",
-    "statid": "7-5"
+    "statid": "non-transfer-7-4"
   },
   {
     "name": "狮子山",
@@ -861,7 +861,7 @@
     "cy": "1305.25",
     "stroke": "#F26F1F",
     "id": "狮子山",
-    "statid": "7-6"
+    "statid": "non-transfer-7-5"
   },
   {
     "name": "大观",
@@ -869,7 +869,7 @@
     "cy": "1287.31",
     "stroke": "#F26F1F",
     "id": "大观",
-    "statid": "7-7"
+    "statid": "non-transfer-7-6"
   },
   {
     "name": "迎晖路",
@@ -877,7 +877,7 @@
     "cy": "1199.63",
     "stroke": "#F26F1F",
     "id": "迎晖路",
-    "statid": "7-9"
+    "statid": "non-transfer-7-7"
   },
   {
     "name": "双店路",
@@ -885,7 +885,7 @@
     "cy": "1123.81",
     "stroke": "#F26F1F",
     "id": "双店路",
-    "statid": "7-11"
+    "statid": "non-transfer-7-8"
   },
   {
     "name": "崔家店",
@@ -893,7 +893,7 @@
     "cy": "1069.44",
     "stroke": "#F26F1F",
     "id": "崔家店",
-    "statid": "7-12"
+    "statid": "non-transfer-7-9"
   },
   {
     "name": "理工大学",
@@ -901,7 +901,7 @@
     "cy": "1019.56",
     "stroke": "#F26F1F",
     "id": "理工大学",
-    "statid": "7-13"
+    "statid": "non-transfer-7-10"
   },
   {
     "name": "二仙桥",
@@ -909,7 +909,7 @@
     "cy": "966.62",
     "stroke": "#F26F1F",
     "id": "二仙桥",
-    "statid": "7-14"
+    "statid": "non-transfer-7-11"
   },
   {
     "name": "八里庄",
@@ -917,7 +917,7 @@
     "cy": "923.56",
     "stroke": "#F26F1F",
     "id": "八里庄",
-    "statid": "7-15"
+    "statid": "non-transfer-7-12"
   },
   {
     "name": "府青路",
@@ -925,7 +925,7 @@
     "cy": "923.56",
     "stroke": "#F26F1F",
     "id": "府青路",
-    "statid": "7-16"
+    "statid": "non-transfer-7-13"
   },
   {
     "name": "北站西二路",
@@ -933,7 +933,7 @@
     "cy": "923.13",
     "stroke": "#F26F1F",
     "id": "北站西二路",
-    "statid": "7-19"
+    "statid": "non-transfer-7-14"
   },
   {
     "name": "九里堤",
@@ -941,7 +941,7 @@
     "cy": "922.94",
     "stroke": "#F26F1F",
     "id": "九里堤",
-    "statid": "7-20"
+    "statid": "non-transfer-7-15"
   },
   {
     "name": "西南交大",
@@ -949,7 +949,7 @@
     "cy": "922.94",
     "stroke": "#F26F1F",
     "id": "西南交大",
-    "statid": "7-21"
+    "statid": "non-transfer-7-16"
   },
   {
     "name": "花照壁",
@@ -957,7 +957,7 @@
     "cy": "922.94",
     "stroke": "#F26F1F",
     "id": "花照壁",
-    "statid": "7-22"
+    "statid": "non-transfer-7-17"
   },
   {
     "name": "茶店子",
@@ -965,7 +965,7 @@
     "cy": "922.69",
     "stroke": "#F26F1F",
     "id": "茶店子",
-    "statid": "7-23"
+    "statid": "non-transfer-7-18"
   },
   {
     "name": "金沙博物馆",
@@ -973,7 +973,7 @@
     "cy": "1031.31",
     "stroke": "#F26F1F",
     "id": "金沙博物馆",
-    "statid": "7-25"
+    "statid": "non-transfer-7-19"
   },
   {
     "name": "东坡路",
@@ -981,7 +981,7 @@
     "cy": "1156.06",
     "stroke": "#F26F1F",
     "id": "东坡路",
-    "statid": "7-27"
+    "statid": "non-transfer-7-20"
   },
   {
     "name": "龙爪堰",
@@ -989,7 +989,7 @@
     "cy": "1222.94",
     "stroke": "#F26F1F",
     "id": "龙爪堰",
-    "statid": "7-28"
+    "statid": "non-transfer-7-21"
   },
   {
     "name": "武侯大道",
@@ -997,6 +997,6 @@
     "cy": "1297.25",
     "stroke": "#F26F1F",
     "id": "武侯大道",
-    "statid": "7-29"
+    "statid": "non-transfer-7-22"
   }
 ]

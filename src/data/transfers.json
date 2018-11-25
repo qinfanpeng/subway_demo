@@ -3,162 +3,162 @@
     "x": "1634.54",
     "y": "915.38",
     "data-id": "火车北站",
-    "statid": "1-2"
+    "statid": "transfer-1-0"
   },
   {
     "x": "1516.33",
     "y": "1091.63",
     "data-id": "骡马市",
-    "statid": "1-5"
+    "statid": "transfer-1-1"
   },
   {
     "x": "1516.33",
     "y": "1135.44",
     "data-id": "天府广场",
-    "statid": "1-6"
+    "statid": "transfer-1-2"
   },
   {
     "x": "1516.33",
     "y": "1391.12",
     "data-id": "火车南站",
-    "statid": "1-12"
+    "statid": "transfer-1-3"
   },
   {
     "x": "1634.54",
     "y": "915.38",
     "data-id": "火车北站",
-    "statid": "1-2"
+    "statid": "transfer-1-0"
   },
   {
     "x": "1516.33",
     "y": "1091.63",
     "data-id": "骡马市",
-    "statid": "1-5"
+    "statid": "transfer-1-1"
   },
   {
     "x": "1516.33",
     "y": "1135.44",
     "data-id": "天府广场",
-    "statid": "1-6"
+    "statid": "transfer-1-2"
   },
   {
     "x": "1516.33",
     "y": "1391.12",
     "data-id": "火车南站",
-    "statid": "1-12"
+    "statid": "transfer-1-3"
   },
   {
     "x": "1217.33",
     "y": "959.06",
     "data-id": "一品天下",
-    "statid": "2-8"
+    "statid": "transfer-2-0"
   },
   {
     "x": "1364.92",
     "y": "1080.16",
     "data-id": "中医大省医院",
-    "statid": "2-11"
+    "statid": "transfer-2-1"
   },
   {
     "x": "1516.33",
     "y": "1135.44",
     "data-id": "天府广场",
-    "statid": "2-14"
+    "statid": "transfer-2-2"
   },
   {
     "x": "1924.25",
     "y": "1214.38",
     "data-id": "成都东客站",
-    "statid": "2-21"
+    "statid": "transfer-2-3"
   },
   {
     "x": "1218.67",
     "y": "1391.12",
     "data-id": "太平园",
-    "statid": "3-0"
+    "statid": "transfer-3-0"
   },
   {
     "x": "1821.17",
     "y": "914.5",
     "data-id": "驷马桥",
-    "statid": "3-12"
+    "statid": "transfer-3-1"
   },
   {
     "x": "1217",
     "y": "1079.5",
     "data-id": "文化宫",
-    "statid": "4-13"
+    "statid": "transfer-4-0"
   },
   {
     "x": "1364.92",
     "y": "1080.16",
     "data-id": "中医大省医院",
-    "statid": "4-16"
+    "statid": "transfer-4-1"
   },
   {
     "x": "1516.33",
     "y": "1091.63",
     "data-id": "骡马市",
-    "statid": "4-18"
+    "statid": "transfer-4-2"
   },
   {
     "x": "1924.67",
     "y": "1172.75",
     "data-id": "槐树店",
-    "statid": "4-24"
+    "statid": "transfer-4-3"
   },
   {
     "x": "1218.67",
     "y": "1391.12",
     "data-id": "太平园",
-    "statid": "10-0"
+    "statid": "transfer-10-0"
   },
   {
     "x": "1516.33",
     "y": "1391.12",
     "data-id": "火车南站",
-    "statid": "7-2"
+    "statid": "transfer-7-0"
   },
   {
     "x": "1924.25",
     "y": "1214.38",
     "data-id": "成都东客站",
-    "statid": "7-8"
+    "statid": "transfer-7-1"
   },
   {
     "x": "1924.67",
     "y": "1172.75",
     "data-id": "槐树店",
-    "statid": "7-10"
+    "statid": "transfer-7-2"
   },
   {
     "x": "1821.17",
     "y": "914.5",
     "data-id": "驷马桥",
-    "statid": "7-17"
+    "statid": "transfer-7-3"
   },
   {
     "x": "1634.54",
     "y": "915.38",
     "data-id": "火车北站",
-    "statid": "7-18"
+    "statid": "transfer-7-4"
   },
   {
     "x": "1217.33",
     "y": "959.06",
     "data-id": "一品天下",
-    "statid": "7-24"
+    "statid": "transfer-7-5"
   },
   {
     "x": "1217",
     "y": "1079.5",
     "data-id": "文化宫",
-    "statid": "7-26"
+    "statid": "transfer-7-6"
   },
   {
     "x": "1218.67",
     "y": "1391.12",
     "data-id": "太平园",
-    "statid": "7-30"
+    "statid": "transfer-7-7"
   }
 ]
